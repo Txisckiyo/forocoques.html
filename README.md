@@ -6,12 +6,12 @@
 <p>Aqui estan unos de nuestros trabajadores.</p>
 <p><img src="http://servicios.laverdad.es/agroregion/pg220306/img/002D3CTGP1_1.jpg" alt="Recogedores" width="290" height="192" /></p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>Algunos beneficios de los albaricoques son:</p>
+<p>1.- El albaricoque nos aporta antioxidantes que protegen nuestras células del ataque de los radicales libres y retrasan el envejecimiento.</p>
+<p>2.- Los taninos del albaricoque poseen efecto antiinflamatorio.</p>
+<p>3.- Es una fruta excelente para las personas con hipertensión o tensión arterial alta.</p>
+<p>4.- Podemos contribuir al buen estado de nuestra piel y cabello consumiendo habitualmente albaricoque.</p>
+<p>5.- Es una fruta beneficiosa que nos ayuda a combatir la retención de líquidos debido al aporte de potasio, un mineral con acción diurética</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
